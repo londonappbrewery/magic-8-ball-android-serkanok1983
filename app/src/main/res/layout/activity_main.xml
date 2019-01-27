@@ -20,6 +20,7 @@
         android:text="Make everyday decisions easier!"
         android:textColor="@android:color/black"
         android:textStyle="bold"
+        android:layout_marginTop="30dp"
         android:layout_marginBottom="30dp"
         android:textSize="20sp" />
 
